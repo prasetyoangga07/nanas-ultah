@@ -79,7 +79,7 @@ body {
     #Content {
     
         animation-name: none;
-        animation-duration: 3s;
+        animation-duration: 5s;
         animation-iteration-count: infinite;
         position: relative;
         opacity: 0;
@@ -168,6 +168,6 @@ body {
     }
 
     #ket {
-        margin-top: 3px !important;
+        margin-top: 4px !important;
         backdrop-filter: blur(8px);
-    }
+    }                                              

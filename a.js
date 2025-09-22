@@ -141,9 +141,9 @@ function aktipesan2(){
   new TypeIt("#kalimat", {
     strings: ["" + vketik2, "" + vketik3],
     startDelay: 20,
-    speed: 30,
+    speed: 100,
     cursor: true,
-    deleteSpeed: 30,
+    deleteSpeed: 100,
     breakLines: false,
     waitUntilVisible: true,
     lifelike: true,
